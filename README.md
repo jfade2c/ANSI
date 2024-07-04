@@ -15,7 +15,7 @@ whose averaged brightness corresponds to the pixel brighness of the original ima
 ## Usage
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/jfade2c/Heat-diffustion-in-soil.git
+   git clone https://github.com/jfade2c/Chardon_Program.git
 
 2. **Files description**:
    see notes at the beginning of each file, as well as comment in the code itself
